@@ -2,7 +2,7 @@
 ### I’m WEIMING
 I am now a PhD at SJTU, and major in 3D detection, computer vision.
 
-Email: weimingl@sjtu.edu.cn
+Email: weimingl@sjtu.edu.cn \
 github: https://github.com/weiming2
 
 - 🔭 I’m currently working on BEVKT
