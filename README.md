@@ -16,8 +16,6 @@ github: https://github.com/weiming2
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiming2) -->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiming2&show_icons=true&theme=radical)
 
 ### CITE
 ```
@@ -43,3 +41,7 @@ github: https://github.com/weiming2
 
  11. J. -C. Li, J. -G. Lu, *M. Wei*, H. -Y. Kang and Q. -H. Zhang, "Robust and Real-Time Road Edge Detection with Flexible LiDAR Configuration," 2024 36th Chinese Control and Decision Conference (CCDC), Xi'an, China, 2024, pp. 1636-1641.(已录用)
 ```
+
+<!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiming2) -->
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiming2&show_icons=true&theme=radical)
+
