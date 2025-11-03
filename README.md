@@ -6,7 +6,7 @@ Email: weimingl@sjtu.edu.cn \
 github: https://github.com/weiming2
 
 - 🔭 I’m currently working on e2e autonomous
-- - 📫 How to reach me: weimingl@sjtu.edu.cn
+- 📫 How to reach me: weimingl@sjtu.edu.cn
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
