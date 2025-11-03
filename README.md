@@ -40,6 +40,8 @@ github: https://github.com/weiming2
  10. T. Huang, J. -G. Lu, *M. Wei*, Q. -H. Zhang, "End-to-end Automatic Targetless Calibration between Low-resolution LiDARs and Cameras based on Cross-modal Attention," 2024 36th Chinese Control and Decision Conference (CCDC), Xi'an, China, 2024, pp. 1630-1635. (已录用)
 
  11. J. -C. Li, J. -G. Lu, *M. Wei*, H. -Y. Kang and Q. -H. Zhang, "Robust and Real-Time Road Edge Detection with Flexible LiDAR Configuration," 2024 36th Chinese Control and Decision Conference (CCDC), Xi'an, China, 2024, pp. 1636-1641.(已录用)
+
+ 12. 韦溟,张丽艳.机器人自动钻铆系统的现场快速自定位方法[J].仪器仪表学报:1-12[2020-07-09]，（中文EI）
 ```
 
 <!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiming2) -->
